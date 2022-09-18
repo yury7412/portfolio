@@ -32,6 +32,7 @@ html {
     width: 70px;
     height: 70px;
     transition: 0.2s ease;
+    z-index:1000;
 }
 
 .multibutton:hover {
